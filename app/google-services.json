@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "939704651480",
+    "firebase_url": "https://pyq-app-7b559-default-rtdb.firebaseio.com",
+    "project_id": "pyq-app-7b559",
+    "storage_bucket": "pyq-app-7b559.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939704651480:android:a69209bc509aabff04d1ad",
+        "android_client_info": {
+          "package_name": "com.example.getPYQ"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgIe_RPTN4p-vw2p0Am_bNSzs3U0oRK1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939704651480:android:8dae25ed8a66b81304d1ad",
+        "android_client_info": {
+          "package_name": "com.example.ulib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgIe_RPTN4p-vw2p0Am_bNSzs3U0oRK1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
